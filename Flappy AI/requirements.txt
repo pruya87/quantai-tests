@@ -1,0 +1,8 @@
+# Game simulation and environments
+pygame>=2.1
+
+# Genetic net
+neat-python>=0.92
+
+# Visualization and widgets
+graphviz>=0.20

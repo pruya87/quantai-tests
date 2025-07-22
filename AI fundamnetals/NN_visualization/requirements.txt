@@ -1,0 +1,6 @@
+# Core scientific stack
+numpy>=1.21
+matplotlib>=3.4
+
+# Misc
+IPython>=7.0

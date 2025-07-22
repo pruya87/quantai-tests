@@ -1,0 +1,6 @@
+ # BPF and system-level tools (may need OS-specific setup)
+bcc  # system-level; not installable via pip easily
+
+# Core scientific stack
+numpy>=1.21
+scikit-learn>=1.0

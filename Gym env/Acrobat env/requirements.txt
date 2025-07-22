@@ -1,0 +1,8 @@
+gymnasium>=0.28.0          # Gym’s newer version with updated API
+numpy>=1.21.0             # Stable, widely used NumPy version
+matplotlib>=3.4.0         # For plotting (plt)
+imageio>=2.9.0            # Image reading/writing
+stable-baselines3>=1.6.0  # RL library for DQN and utilities
+ipython>=7.0             # For IPython.display imports
+pillow>=8.0.0             # PIL fork (Image)
+optuna>=3.0.0            # Hyperparameter optimization library

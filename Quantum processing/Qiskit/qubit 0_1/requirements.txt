@@ -1,0 +1,7 @@
+qiskit>=0.42.0              # Quantum computing framework
+qiskit-aer>=0.11.0          # Qiskit Aer simulator backend
+matplotlib>=3.4.0           # Plotting library (plot_histogram, plot_bloch_multivector)
+numpy>=1.21.0               # Numerical computations
+pillow>=8.0.0               # PIL fork (Image)
+ipywidgets>=7.6.0           # Interactive widgets in notebooks
+ipython>=7.0                # For IPython.display.display

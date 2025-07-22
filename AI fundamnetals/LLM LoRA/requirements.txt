@@ -1,0 +1,3 @@
+# Core scientific stack
+numpy>=1.21
+Gmatplotlib>=3.4GS
